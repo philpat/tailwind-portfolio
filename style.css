@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+
+*{
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  font-family: 'Roboto', sans-serif;
+  /* outline: 1px solid red; */
+}
+.project-items:hover{
+  color: #fff;
+  background-color: #3E64FF;
+}
+.icons i{
+  color: #3E64FF;
+}
+.icons i:hover{
+  font-size: xx-large;
+}
